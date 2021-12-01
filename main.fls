@@ -1,6 +1,6 @@
-PWD c:\Users\adi\Desktop\MIT Thesis Template
+PWD c:\Users\adi\Desktop\DCM Report
 INPUT C:\Users\adi\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\adi\Desktop\MIT Thesis Template\main.tex
+INPUT c:\Users\adi\Desktop\DCM Report\main.tex
 OUTPUT main.log
 INPUT C:\Users\adi\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\adi\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -1198,6 +1198,27 @@ INPUT .\Figures\g3.png
 INPUT .\Figures\g3.png
 INPUT .\Figures\g3.png
 INPUT .\Figures\g3.png
+INPUT .\Figures\pro1.png
+INPUT .\Figures\pro1.png
+INPUT Figures\pro1.png
+INPUT .\Figures\pro1.png
+INPUT .\Figures\pro1.png
+INPUT .\Figures\pro1.png
+INPUT .\Figures\pro1.png
+INPUT .\Figures\pro2.png
+INPUT .\Figures\pro2.png
+INPUT Figures\pro2.png
+INPUT .\Figures\pro2.png
+INPUT .\Figures\pro2.png
+INPUT .\Figures\pro2.png
+INPUT .\Figures\pro2.png
+INPUT .\Figures\pro3.png
+INPUT .\Figures\pro3.png
+INPUT Figures\pro3.png
+INPUT .\Figures\pro3.png
+INPUT .\Figures\pro3.png
+INPUT .\Figures\pro3.png
+INPUT .\Figures\pro3.png
 INPUT .\chapters\conclusion.tex
 INPUT chapters\conclusion.tex
 INPUT .\chapters\conclusion.tex

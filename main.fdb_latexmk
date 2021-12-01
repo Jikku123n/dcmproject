@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber main"] 1638299047 "main.bcf" "main.bbl" "main" 1638299079
-  "main.bcf" 1638299078 105857 d0178bf28b7574e4250c89d490656d83 "pdflatex"
+["biber main"] 1638362814 "main.bcf" "main.bbl" "main" 1638362961
+  "main.bcf" 1638362961 105857 d0178bf28b7574e4250c89d490656d83 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1638299075 "c:/Users/adi/Desktop/MIT Thesis Template/main.tex" "main.pdf" "main" 1638299079
+["pdflatex"] 1638362958 "c:/Users/adi/Desktop/DCM Report/main.tex" "main.pdf" "main" 1638362961
   "C:/Users/adi/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1638080798 9768225 b10ad91691cbad2d913e4df2fa34c30e ""
   "C:/Users/adi/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1638296999 147925 4935048dd85bab3f908eed675aa2e56c ""
   "C:/Users/adi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc" 1604359860 3139 924aa9f6281e5ec9497c4ad80db13e57 ""
@@ -147,18 +147,21 @@
   "Figures/lcd.jpg" 1638296881 11335 fa7546c892b9ac0c02de05752941e963 ""
   "Figures/mit.jpg" 1638095097 52660 f9aefc6dd9655faa855aecc4b44e3a94 ""
   "Figures/motor.jpg" 1638296762 40740 994327feb4963599cbdf863ead0b96fb ""
+  "Figures/pro1.png" 1638362594 242814 aca2789534969758da9f06bf2767f286 ""
+  "Figures/pro2.png" 1638362593 230304 fda6e800e34eb29c22c5945ac5092bf0 ""
+  "Figures/pro3.png" 1638362600 64336 be89e0f49a0854feb139a299e74122ea ""
   "Figures/trans.jpg" 1638296831 25931 5747868ea205d13947d1f15e04e86c73 ""
   "Figures/triac.jpg" 1638296866 17799 54484e242b57f583fa245cbd53b5681e ""
   "Figures/volt.jpg" 1638296822 29185 ea5c434077afee56c9eff3e0ae38bdfc ""
-  "c:/Users/adi/Desktop/MIT Thesis Template/main.tex" 1638299071 1792 91163e1936dc499925f1e704f53802d7 ""
+  "c:/Users/adi/Desktop/DCM Report/main.tex" 1638299071 1792 91163e1936dc499925f1e704f53802d7 ""
   "chapters/conclusion.tex" 1638299057 853 1712c26d6457deb6594b46c0e71d39aa ""
   "chapters/introduction.tex" 1638296210 3817 06c7eea2acbbda6f03fd376484ced2ba ""
   "chapters/objectives&methodology.tex" 1638298256 5130 05807d1953a2ba1b5bb647cb6149eab1 ""
-  "chapters/results&discussion.tex" 1638298680 964 73a38c358db01d1d6e3414fb02c4bc3a ""
-  "main.aux" 1638299078 5301 23d96e6c3e35bf4165c3925120d86185 "pdflatex"
-  "main.bbl" 1638299050 486 f7f239c736cf01ac6ce7bd829f9b3c7b "biber main"
-  "main.out" 1638299078 2763 7ccb6dccdcee3f809b688e70935eb398 "pdflatex"
-  "main.run.xml" 1638299078 2402 7c866ed2192e71c57464ed4279aadefa "pdflatex"
+  "chapters/results&discussion.tex" 1638362956 1228 45c02caed65f062e47fc9349443bc838 ""
+  "main.aux" 1638362961 5301 1509dfbd5277d07689c5352128fbd5ce "pdflatex"
+  "main.bbl" 1638362818 486 f7f239c736cf01ac6ce7bd829f9b3c7b "biber main"
+  "main.out" 1638362961 2763 7ccb6dccdcee3f809b688e70935eb398 "pdflatex"
+  "main.run.xml" 1638362961 2402 7c866ed2192e71c57464ed4279aadefa "pdflatex"
   "main.tex" 1638299071 1792 91163e1936dc499925f1e704f53802d7 ""
   "titlepage.tex" 1638296319 959 bd5635e03036ebb93c5fac3541e68d72 ""
   (generated)

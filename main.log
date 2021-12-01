@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.28)  1 DEC 2021 00:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.28)  1 DEC 2021 18:19
 entering extended mode
-**"c:/Users/adi/Desktop/MIT Thesis Template/main.tex"
-(c:/Users/adi/Desktop/MIT Thesis Template/main.tex
+**"c:/Users/adi/Desktop/DCM Report/main.tex"
+(c:/Users/adi/Desktop/DCM Report/main.tex
 LaTeX2e <2021-11-15>
 L3 programming layer <2021-11-22> (C:\Users\adi\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
@@ -1154,12 +1154,50 @@ File: Figures/g3.png Graphic file (type png)
 <use Figures/g3.png>
 Package pdftex.def Info: Figures/g3.png  used on input line 11.
 (pdftex.def)             Requested size: 263.07202pt x 280.19846pt.
+<Figures/pro1.png, id=142, 963.6pt x 511.9125pt>
+File: Figures/pro1.png Graphic file (type png)
+<use Figures/pro1.png>
+Package pdftex.def Info: Figures/pro1.png  used on input line 17.
+(pdftex.def)             Requested size: 395.57848pt x 210.15419pt.
+<Figures/pro2.png, id=143, 963.6pt x 513.41812pt>
+File: Figures/pro2.png Graphic file (type png)
+<use Figures/pro2.png>
+Package pdftex.def Info: Figures/pro2.png  used on input line 19.
+(pdftex.def)             Requested size: 394.43161pt x 210.15419pt.
+<Figures/pro3.png, id=144, 963.6pt x 511.41063pt>
+File: Figures/pro3.png Graphic file (type png)
+<use Figures/pro3.png>
+Package pdftex.def Info: Figures/pro3.png  used on input line 23.
+(pdftex.def)             Requested size: 395.96075pt x 210.15419pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--24
+
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9
 
- <./Figures/g1.png> <./Figures/g2.png>])
+ <./Figures/g1.png> <./Figures/g2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1167,14 +1205,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10 <./Figures/g3.png>]
+[10 <./Figures/g3.png> <./Figures/pro1.png>])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11 <./Figures/pro2.png> <./Figures/pro3.png>]
 Chapter 4.
 (chapters/conclusion.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 1--74
 
  []
 
-[11
+[12
 
 ] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -1184,17 +1230,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24609 strings out of 478681
- 419193 string characters out of 2847482
+ 24631 strings out of 478681
+ 419461 string characters out of 2847482
  1196317 words of memory out of 3000000
- 42326 multiletter control sequences out of 15000+600000
+ 42344 multiletter control sequences out of 15000+600000
  436401 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,117p,1099b,812s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,11n,117p,1090b,812s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/adi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}{C:/Users/adi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/adi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}<C:/Users/adi/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/adi/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/adi/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/adi/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (12 pages, 720095 bytes).
+Output written on main.pdf (13 pages, 1054474 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 202 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
 
